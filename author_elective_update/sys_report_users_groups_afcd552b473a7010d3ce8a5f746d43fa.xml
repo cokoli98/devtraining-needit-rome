@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">2bcd552b473a7010d3ce8a5f746d43fa</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 20:13:10</sys_created_on>
+        <sys_id>afcd552b473a7010d3ce8a5f746d43fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2bcd552b473a7010d3ce8a5f746d43fa</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_users_groups_afcd552b473a7010d3ce8a5f746d43fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 20:13:10</sys_updated_on>
+        <user_id display_value="Cecelia O'Koli">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>643bdbcfdb7d5f087d8cf22ebf9619e5</instance_id>
+        <instance_name>dev58243</instance_name>
+        <name>sys_report_users_groups_afcd552b473a7010d3ce8a5f746d43fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">2bcd552b473a7010d3ce8a5f746d43fa</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-30 20:13:10</sys_created_on><sys_id>afcd552b473a7010d3ce8a5f746d43fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2bcd552b473a7010d3ce8a5f746d43fa</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_report_users_groups_afcd552b473a7010d3ce8a5f746d43fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-30 20:13:10</sys_updated_on><user_id display_value="Cecelia O'Koli">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>971821916</payload_hash>
+        <record_name>2bcd552b473a7010d3ce8a5f746d43fa</record_name>
+        <reverted_from/>
+        <source>5729890f2f2230104cb2877cf699b621</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 20:13:10</sys_created_on>
+        <sys_id>afcd552b473a7010d3ce8a5f746d43fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c3856e1170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 20:13:10</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>e7cd552b5d3a70102c73a37dd1fe76fc</update_guid>
+        <update_guid_history>e7cd552b5d3a70102c73a37dd1fe76fc:971821916</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 15:49:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>10411f39bfab4827833347bc282793d9</sys_id>
+        <sys_metadata>afcd552b473a7010d3ce8a5f746d43fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2bcd552b473a7010d3ce8a5f746d43fa</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_afcd552b473a7010d3ce8a5f746d43fa</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_afcd552b473a7010d3ce8a5f746d43fa">afcd552b473a7010d3ce8a5f746d43fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 15:49:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
